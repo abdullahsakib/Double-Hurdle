@@ -58,7 +58,6 @@ def move_enemy():
     root.after(100, move_enemy)
 
 def create_star(x, y, size=10):
-    """Create a star shape centered at (x, y) with the specified size."""
     points = [
         x, y - size,  # Top point
         x + size, y + size,  # Bottom-right point
