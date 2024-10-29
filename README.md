@@ -1,6 +1,6 @@
 # Double-Hurdle
 Simple Game made with Python-Tkinter <br>
-Use Left, Right, Up $ Down key to control player <br>
+Use Left, Right, Up & Down key to control player <br>
 Use a,w,s,d button to control catcher <br>
 Use space button to shoot
 # Quick Summary
